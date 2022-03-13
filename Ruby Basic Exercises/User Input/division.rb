@@ -50,6 +50,7 @@ divide_numbers
 
 
 #no stacktrace for this
+=begin
 names = ['bob', 'joe', 'steve', nil, 'frank']
 def test
   
@@ -62,4 +63,4 @@ def test
   end
 end
 test
-
+=end
